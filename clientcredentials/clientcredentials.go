@@ -20,8 +20,8 @@ import (
 	"net/url"
 	"strings"
 
-	"golang.org/x/oauth2"
-	"golang.org/x/oauth2/internal"
+	"github.com/mlohstroh/oauth2"
+	"github.com/mlohstroh/oauth2/internal"
 )
 
 // Config describes a 2-legged OAuth2 flow, with both the
